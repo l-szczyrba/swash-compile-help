@@ -1,2 +1,2 @@
 # swash-compile-help
-Contains tutorial to install swash nonhydrostatic phase resolving model in parallel mode on windows os
+Contains a tutorial to install swash nonhydrostatic phase resolving model in parallel mode on windows os via WSL2
